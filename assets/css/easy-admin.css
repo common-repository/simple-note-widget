@@ -1,0 +1,26 @@
+img.widget-easy_image_widget-2-easy_img1, img.widget-easy_image_widget-2-easy_img2, img.widget-easy_image_widget-2-easy_img3,
+ img.widget-easy_image_widget-2-easy_img4, img.widget-easy_image_widget-2-easy_img5, img.widget-easy_image_widget-2-easy_img6,
+ img.widget-easy_image_widget-2-easy_img7, img.widget-easy_image_widget-2-easy_img8, img.widget-easy_image_widget-2-easy_img9,
+ img.widget-easy_image_widget-2-easy_img10  {
+    width: 100% !important;
+}
+.box-img {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    top: 10px;
+        padding-bottom: 10px;
+}
+p.box-admin {
+   border: 2px solid;
+    padding: 5px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    background: #ddd;
+}
+.wp-picker-container {
+    position: relative;
+    top: 10px;
+}
+

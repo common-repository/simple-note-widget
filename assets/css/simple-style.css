@@ -1,0 +1,31 @@
+.bs-note-header {
+    background: #fff;
+    text-align: center;
+	padding-bottom: 5px;
+}
+.bs-note-header p {
+    margin: 0px;
+    color: #2196F3;
+    font-size: 18px;
+  
+}
+.bs-note-foter {
+    background: #fff;
+    padding: 5px;
+    margin-top: 2px;
+	text-align: center;
+}
+.bs-note-content {
+    position: relative;
+    top: 1px;
+}
+.bs-note-content ul {
+    padding: 0px;
+    margin: 0px;
+}
+.bs-note-content ul li {
+
+    margin-bottom: 1px;
+    padding: 5px;
+    list-style:none;
+}
